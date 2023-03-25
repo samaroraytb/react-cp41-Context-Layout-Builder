@@ -1,0 +1,11 @@
+.main-container-for-controller {
+  padding: 20px;
+  background-color: #475569;
+  color: white;
+  height: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  width: 100%;
+}

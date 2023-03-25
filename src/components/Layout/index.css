@@ -1,0 +1,17 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+.main-layout-container {
+  padding: 25px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  background-color: #f1f5f9;
+}
+@media all and (min-width: 768px) {
+  .main-layout-container {
+    max-width: 50%;
+  }
+}
