@@ -34,9 +34,9 @@ const ConfigurationController = () => (
               checked={showContent}
               value="content"
               type="checkbox"
-              id="content"
+              id="contentId"
             />
-            <label htmlFor="content">Content</label>
+            <label htmlFor="contentId">Content</label>
           </div>
 
           <div className="input-element">
@@ -45,9 +45,9 @@ const ConfigurationController = () => (
               checked={showLeftNavbar}
               value="leftNavbar"
               type="checkbox"
-              id="leftNavbar"
+              id="leftNavbarId"
             />
-            <label htmlFor="leftNavbar">Left Navbar</label>
+            <label htmlFor="leftNavbarId">Left Navbar</label>
           </div>
 
           <div className="input-element">
@@ -56,9 +56,9 @@ const ConfigurationController = () => (
               checked={showRightNavbar}
               value="rightNavbar"
               type="checkbox"
-              id="rightNavbar"
+              id="rightNavbarId"
             />
-            <label htmlFor="content">Right Navbar</label>
+            <label htmlFor="rightNavbarId">Right Navbar</label>
           </div>
         </div>
       )
