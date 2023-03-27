@@ -25,12 +25,9 @@ const Body = () => (
             <div className="navbar-sidebar">
               <h1>Content</h1>
               <p>
-                Lorem ipsum It is a long established fact that a reader will be
-                distracted by the readable content of a page when looking at its
-                layout. The point of using Lorem Ipsum is that it has a
-                more-or-less normal distribution of letters, as opposed to using
-                &lsquo;Content here, content here&lsquo;, making it look like
-                readable English.
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
+                enim ad minim veniam
               </p>
             </div>
           ) : (

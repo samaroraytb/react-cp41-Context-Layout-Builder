@@ -12,6 +12,6 @@
 }
 @media all and (min-width: 768px) {
   .main-layout-container {
-    max-width: 50%;
+    width: 50%;
   }
 }
